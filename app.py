@@ -34,11 +34,11 @@ def get_map():
     map_data ={}
     part_name = request.json['part']
     file_name = part_name + '.csv'
-    with open('data/map_data.json', 'r') as json_file:
+    with open('mapData/map_data.json', 'r') as json_file:
         processed = json.loads(json_file.read(), strict=False)
         map_data = processed
     features = map_data['features']
-    with open('data/'+file_name) as csv_file:
+    with open('mapData/'+file_name) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             for feature in features:
