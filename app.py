@@ -1,6 +1,5 @@
 from flask import Flask, request, Response
 import json
-from bson.json_util import dumps
 
 app = Flask(__name__)
 
@@ -22,11 +21,11 @@ def get_disease():
     data = processed[part]
 
     if type is None or type == '':
-        return Response(dumps(processed[part]), status=200)
+        return Response(json.dumps(processed[part]), status=200)
     elif type != '' and topic == '':
-        return Response(dumps(data[type]), status=200)
+        return Response(json.dumps(data[type]), status=200)
     else:
-        return Response(dumps(data[type][topic]), status=200)
+        return Response(json.dumps(data[type][topic]), status=200)
 
 
 
