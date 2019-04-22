@@ -32,6 +32,7 @@ def get_disease():
 @app.route('/get_map', methods=["POST"])
 def get_map():
     map_data ={}
+    text =''
     part_name = request.json['part']
     file_name = part_name + '.csv'
     with open('mapData/map_data.json', 'r') as json_file:
@@ -44,6 +45,9 @@ def get_map():
             for feature in features:
                 if(row[0]==feature["properties"]["name"]):
                     feature["properties"]["value"]= row[5]
+                    text = "In 2015 age adjusted data of lung diseases was"+row[4]+"per 100,000 people"+"/n"+ row[5]+ " cancel cases was reported"
+                    feature["properties"]["text"] = text
+
     map_data['features'] = features
 
 
