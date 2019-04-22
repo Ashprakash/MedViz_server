@@ -1,5 +1,7 @@
 from flask import Flask, request, Response
 import json
+import csv
+
 
 app = Flask(__name__)
 
@@ -27,6 +29,25 @@ def get_disease():
     else:
         return Response(json.dumps(data[type][topic]), status=200)
 
+@app.route('/get_map', methods=["POST"])
+def get_map():
+    map_data ={}
+    part_name = request.json['part']
+    file_name = part_name + '.csv'
+    with open('data/map_data.json', 'r') as json_file:
+        processed = json.loads(json_file.read(), strict=False)
+        map_data = processed
+    features = map_data['features']
+    with open('data/'+file_name) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        for row in csv_reader:
+            for feature in features:
+                if(row[0]==feature["properties"]["name"]):
+                    feature["properties"]["value"]= row[5]
+    map_data['features'] = features
+
+
+    return Response(json.dumps(map_data), status=200)
 
 
 if __name__ == '__main__':
