@@ -21,13 +21,28 @@ def get_disease():
         processed = json.loads(json_file.read(), strict=False)
         json_file.close()
     data = processed[part]
+    output = {
+                "name" : "Top rated topic for "+part,
+              }
+    content = [
+                    {"name":"Disease", "children": []},
+                    {"name": "General", "children": []}
+                ]
 
-    if type is None or type == '':
-        return Response(json.dumps(processed[part]), status=200)
-    elif type != '' and topic == '':
-        return Response(json.dumps(data[type]), status=200)
-    else:
-        return Response(json.dumps(data[type][topic]), status=200)
+    for typeKey, valueMap in data.items():
+        for key, value in valueMap.items():
+            obj = {}
+            obj['name'] = value['topicName']
+            obj['size'] = len(value['value'])
+            obj['topicId'] = value['topicId']
+            if typeKey == 'disease':
+                content[0]["children"].append(obj)
+            else:
+                content[1]["children"].append(obj)
+
+    output["children"] = content
+    return Response(json.dumps(output), status=200)
+
 
 @app.route('/get_map', methods=["POST"])
 def get_map():
@@ -49,9 +64,23 @@ def get_map():
                     feature["properties"]["text"] = text
 
     map_data['features'] = features
-
-
     return Response(json.dumps(map_data), status=200)
+
+
+@app.route('/get_network', methods=["GET"])
+def get_network():
+    key = request.args['key']
+    with open('data/network_data.json', 'r') as json_file:
+        network = json.loads(json_file.read(), strict=False)
+        return Response(json.dumps(network[key]), status=200)
+
+
+@app.route('/get_word_cloud', methods=["GET"])
+def get_word_cloud():
+    key = request.args['key']
+    with open('data/word_count.json', 'r') as json_file:
+        word_cloud = json.loads(json_file.read(), strict=False)
+        return Response(json.dumps(word_cloud[key]), status=200)
 
 
 if __name__ == '__main__':
