@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+Utah,Colon and Rectum,2015,Male and Female,27.9,712,2990632
+Wyoming,Colon and Rectum,2015,Male and Female,30.3,200,586555
+New Mexico,Colon and Rectum,2015,Male and Female,31.7,794,2080328
+Rhode Island,Colon and Rectum,2015,Male and Female,31.8,411,1055607
+Arizona,Colon and Rectum,2015,Male and Female,31.8,2583,6817565
+District of Columbia,Colon and Rectum,2015,Male and Female,31,202,670377
+Nevada,Colon and Rectum,2015,Male and Female,32.3,1055,2883758
+Oregon,Colon and Rectum,2015,Male and Female,31.9,1564,4024634
+Vermont,Colon and Rectum,2015,Male and Female,33.8,277,626088
+Virginia,Colon and Rectum,2015,Male and Female,33.7,3182,8367587
+Washington,Colon and Rectum,2015,Male and Female,33.5,2704,7160290
+California,Colon and Rectum,2015,Male and Female,35,14620,38993940
+Colorado,Colon and Rectum,2015,Male and Female,32.9,1892,5448819
+Florida,Colon and Rectum,2015,Male and Female,34.9,9696,20244914
+New Hampshire,Colon and Rectum,2015,Male and Female,36,594,1330111
+Montana,Colon and Rectum,2015,Male and Female,38.9,507,1032073
+Minnesota,Colon and Rectum,2015,Male and Female,38.4,2408,5482435
+Massachusetts,Colon and Rectum,2015,Male and Female,35.5,2872,6784240
+Michigan,Colon and Rectum,2015,Male and Female,35.4,4274,9917715
+Maine,Colon and Rectum,2015,Male and Female,35.7,669,1329453
+Maryland,Colon and Rectum,2015,Male and Female,36,2444,5994983
+North Carolina,Colon and Rectum,2015,Male and Female,37.3,4377,10035186
+New York,Colon and Rectum,2015,Male and Female,38.7,8964,19747183
+Wisconsin,Colon and Rectum,2015,Male and Female,35.8,2486,5767891
+Texas,Colon and Rectum,2015,Male and Female,37.5,10137,27429639
+Tennessee,Colon and Rectum,2015,Male and Female,39.7,3106,6595056
+Connecticut,Colon and Rectum,2015,Male and Female,35.3,1578,3584730
+Delaware,Colon and Rectum,2015,Male and Female,39.4,457,944076
+Idaho,Colon and Rectum,2015,Male and Female,35.3,645,1652828
+Kansas,Colon and Rectum,2015,Male and Female,38.3,1268,2906721
+New Jersey,Colon and Rectum,2015,Male and Female,40.5,4314,8935421
+Nebraska,Colon and Rectum,2015,Male and Female,42.8,919,1893765
+Missouri,Colon and Rectum,2015,Male and Female,39.8,2896,6076204
+Mississippi,Colon and Rectum,2015,Male and Female,48.1,1658,2989390
+Louisiana,Colon and Rectum,2015,Male and Female,44.4,2310,4668960
+Ohio,Colon and Rectum,2015,Male and Female,42.3,5993,11605090
+Oklahoma,Colon and Rectum,2015,Male and Female,40.8,1798,3907414
+North Dakota,Colon and Rectum,2015,Male and Female,42.4,354,756835
+Pennsylvania,Colon and Rectum,2015,Male and Female,41.9,6872,12791904
+West Virginia,Colon and Rectum,2015,Male and Female,47.1,1146,1841053
+South Carolina,Colon and Rectum,2015,Male and Female,39.7,2320,4894834
+South Dakota,Colon and Rectum,2015,Male and Female,40,400,857919
+Alabama,Colon and Rectum,2015,Male and Female,42.7,2493,4853875
+Alaska,Colon and Rectum,2015,Male and Female,42.5,294,737709
+Arkansas,Colon and Rectum,2015,Male and Female,45,1582,2977853
+Georgia,Colon and Rectum,2015,Male and Female,41.7,4477,10199398
+Hawaii,Colon and Rectum,2015,Male and Female,41.3,713,1425157
+Illinois,Colon and Rectum,2015,Male and Female,42.8,6251,12839047
+Kentucky,Colon and Rectum,2015,Male and Female,48.4,2515,4424611
+Indiana,Colon and Rectum,2015,Male and Female,41.6,3133,6612768
+Iowa,Colon and Rectum,2015,Male and Female,43.6,1672,3121997

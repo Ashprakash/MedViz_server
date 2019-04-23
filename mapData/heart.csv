@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+District of Columbia,Leukemias,2015,Male and Female,7.4,47,670377
+Hawaii,Leukemias,2015,Male and Female,10,164,1425157
+Alaska,Leukemias,2015,Male and Female,10.9,72,737709
+Virginia,Leukemias,2015,Male and Female,10.3,948,8367587
+Mississippi,Leukemias,2015,Male and Female,10.9,361,2989390
+Nevada,Leukemias,2015,Male and Female,10.7,327,2883758
+Alabama,Leukemias,2015,Male and Female,12.1,680,4853875
+Arizona,Leukemias,2015,Male and Female,11.4,873,6817565
+California,Leukemias,2015,Male and Female,12,4853,38993940
+Florida,Leukemias,2015,Male and Female,12,3127,20244914
+Maryland,Leukemias,2015,Male and Female,11.6,772,5994983
+Vermont,Leukemias,2015,Male and Female,11.4,92,626088
+Ohio,Leukemias,2015,Male and Female,11.7,1600,11605090
+Oregon,Leukemias,2015,Male and Female,11.8,541,4024634
+Colorado,Leukemias,2015,Male and Female,12.4,703,5448819
+Connecticut,Leukemias,2015,Male and Female,12.8,546,3584730
+Delaware,Leukemias,2015,Male and Female,12.9,150,944076
+Illinois,Leukemias,2015,Male and Female,13.1,1853,12839047
+South Carolina,Leukemias,2015,Male and Female,12.5,711,4894834
+Indiana,Leukemias,2015,Male and Female,13.2,954,6612768
+Tennessee,Leukemias,2015,Male and Female,12.7,946,6595056
+Massachusetts,Leukemias,2015,Male and Female,12.3,971,6784240
+Texas,Leukemias,2015,Male and Female,13.3,3495,27429639
+Utah,Leukemias,2015,Male and Female,12.8,332,2990632
+Michigan,Leukemias,2015,Male and Female,13.5,1606,9917715
+Nebraska,Leukemias,2015,Male and Female,12.2,261,1893765
+Missouri,Leukemias,2015,Male and Female,13.4,938,6076204
+New Hampshire,Leukemias,2015,Male and Female,12.3,201,1330111
+North Carolina,Leukemias,2015,Male and Female,13.5,1522,10035186
+Rhode Island,Leukemias,2015,Male and Female,13.5,172,1055607
+Arkansas,Leukemias,2015,Male and Female,14,488,2977853
+Georgia,Leukemias,2015,Male and Female,13.7,1421,10199398
+South Dakota,Leukemias,2015,Male and Female,15.6,156,857919
+Iowa,Leukemias,2015,Male and Female,16,598,3121997
+Kansas,Leukemias,2015,Male and Female,15.9,513,2906721
+West Virginia,Leukemias,2015,Male and Female,14.7,339,1841053
+Wisconsin,Leukemias,2015,Male and Female,16.1,1099,5767891
+Wyoming,Leukemias,2015,Male and Female,14.7,96,586555
+Kentucky,Leukemias,2015,Male and Female,15.9,804,4424611
+Louisiana,Leukemias,2015,Male and Female,14.6,738,4668960
+Washington,Leukemias,2015,Male and Female,13.9,1107,7160290
+Maine,Leukemias,2015,Male and Female,15.1,265,1329453
+Minnesota,Leukemias,2015,Male and Female,17,1053,5482435
+Montana,Leukemias,2015,Male and Female,14.1,182,1032073
+New York,Leukemias,2015,Male and Female,16,3624,19747183
+North Dakota,Leukemias,2015,Male and Female,17.3,143,756835
+Oklahoma,Leukemias,2015,Male and Female,13.6,591,3907414
+Pennsylvania,Leukemias,2015,Male and Female,14.8,2353,12791904
+New Jersey,Leukemias,2015,Male and Female,15.1,1559,8935421
+New Mexico,Leukemias,2015,Male and Female,14.7,353,2080328
+Idaho,Leukemias,2015,Male and Female,16.6,301,1652828

@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+District of Columbia,Non-Hodgkin Lymphoma,2015,Male and Female,12.7,80,670377
+Nevada,Non-Hodgkin Lymphoma,2015,Male and Female,12.8,405,2883758
+Arizona,Non-Hodgkin Lymphoma,2015,Male and Female,14.8,1189,6817565
+Hawaii,Non-Hodgkin Lymphoma,2015,Male and Female,14.9,266,1425157
+New Mexico,Non-Hodgkin Lymphoma,2015,Male and Female,13.9,343,2080328
+Oregon,Non-Hodgkin Lymphoma,2015,Male and Female,15.7,782,4024634
+Alabama,Non-Hodgkin Lymphoma,2015,Male and Female,16.1,931,4853875
+Florida,Non-Hodgkin Lymphoma,2015,Male and Female,16.6,4486,20244914
+Maryland,Non-Hodgkin Lymphoma,2015,Male and Female,16.4,1106,5994983
+Mississippi,Non-Hodgkin Lymphoma,2015,Male and Female,16,544,2989390
+Montana,Non-Hodgkin Lymphoma,2015,Male and Female,16.5,222,1032073
+South Carolina,Non-Hodgkin Lymphoma,2015,Male and Female,16.1,946,4894834
+South Dakota,Non-Hodgkin Lymphoma,2015,Male and Female,16.3,166,857919
+Texas,Non-Hodgkin Lymphoma,2015,Male and Female,16.5,4399,27429639
+Alaska,Non-Hodgkin Lymphoma,2015,Male and Female,18,123,737709
+Arkansas,Non-Hodgkin Lymphoma,2015,Male and Female,16.9,609,2977853
+California,Non-Hodgkin Lymphoma,2015,Male and Female,18.1,7472,38993940
+Colorado,Non-Hodgkin Lymphoma,2015,Male and Female,17.1,982,5448819
+Georgia,Non-Hodgkin Lymphoma,2015,Male and Female,18.3,1922,10199398
+Indiana,Non-Hodgkin Lymphoma,2015,Male and Female,18.6,1385,6612768
+North Carolina,Non-Hodgkin Lymphoma,2015,Male and Female,17.6,2042,10035186
+Kentucky,Non-Hodgkin Lymphoma,2015,Male and Female,18.8,981,4424611
+North Dakota,Non-Hodgkin Lymphoma,2015,Male and Female,17.8,149,756835
+Oklahoma,Non-Hodgkin Lymphoma,2015,Male and Female,17.4,768,3907414
+Massachusetts,Non-Hodgkin Lymphoma,2015,Male and Female,18.9,1513,6784240
+Missouri,Non-Hodgkin Lymphoma,2015,Male and Female,18.4,1334,6076204
+Tennessee,Non-Hodgkin Lymphoma,2015,Male and Female,17,1320,6595056
+Utah,Non-Hodgkin Lymphoma,2015,Male and Female,18.8,475,2990632
+Virginia,Non-Hodgkin Lymphoma,2015,Male and Female,16.7,1559,8367587
+Wyoming,Non-Hodgkin Lymphoma,2015,Male and Female,17.9,114,586555
+Connecticut,Non-Hodgkin Lymphoma,2015,Male and Female,21.9,968,3584730
+Delaware,Non-Hodgkin Lymphoma,2015,Male and Female,19.3,234,944076
+Idaho,Non-Hodgkin Lymphoma,2015,Male and Female,19.7,364,1652828
+Illinois,Non-Hodgkin Lymphoma,2015,Male and Female,19.7,2844,12839047
+Iowa,Non-Hodgkin Lymphoma,2015,Male and Female,21.5,806,3121997
+Kansas,Non-Hodgkin Lymphoma,2015,Male and Female,19,628,2906721
+New York,Non-Hodgkin Lymphoma,2015,Male and Female,21.4,4891,19747183
+Louisiana,Non-Hodgkin Lymphoma,2015,Male and Female,19,992,4668960
+Ohio,Non-Hodgkin Lymphoma,2015,Male and Female,19.3,2712,11605090
+Maine,Non-Hodgkin Lymphoma,2015,Male and Female,21,389,1329453
+Michigan,Non-Hodgkin Lymphoma,2015,Male and Female,19.7,2359,9917715
+Pennsylvania,Non-Hodgkin Lymphoma,2015,Male and Female,20.9,3406,12791904
+Rhode Island,Non-Hodgkin Lymphoma,2015,Male and Female,20.3,261,1055607
+Minnesota,Non-Hodgkin Lymphoma,2015,Male and Female,21.9,1378,5482435
+Nebraska,Non-Hodgkin Lymphoma,2015,Male and Female,19.8,427,1893765
+Vermont,Non-Hodgkin Lymphoma,2015,Male and Female,21.5,170,626088
+Washington,Non-Hodgkin Lymphoma,2015,Male and Female,19.2,1542,7160290
+West Virginia,Non-Hodgkin Lymphoma,2015,Male and Female,19,468,1841053
+New Hampshire,Non-Hodgkin Lymphoma,2015,Male and Female,20,336,1330111
+New Jersey,Non-Hodgkin Lymphoma,2015,Male and Female,22.1,2304,8935421
+Wisconsin,Non-Hodgkin Lymphoma,2015,Male and Female,20.6,1430,5767891

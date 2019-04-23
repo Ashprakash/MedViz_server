@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+Vermont,Pancreas,2015,Male and Female,9.5,85,626088
+Alaska,Pancreas,2015,Male and Female,10,67,737709
+West Virginia,Pancreas,2015,Male and Female,10.7,275,1841053
+Nevada,Pancreas,2015,Male and Female,10.3,339,2883758
+Rhode Island,Pancreas,2015,Male and Female,10.8,143,1055607
+Colorado,Pancreas,2015,Male and Female,10.4,613,5448819
+Wyoming,Pancreas,2015,Male and Female,11.8,80,586555
+New Mexico,Pancreas,2015,Male and Female,11.4,289,2080328
+New Hampshire,Pancreas,2015,Male and Female,10.9,193,1330111
+South Dakota,Pancreas,2015,Male and Female,10.9,117,857919
+Utah,Pancreas,2015,Male and Female,10.9,272,2990632
+Oklahoma,Pancreas,2015,Male and Female,11.3,509,3907414
+Arizona,Pancreas,2015,Male and Female,11,932,6817565
+California,Pancreas,2015,Male and Female,11.6,4868,38993940
+Virginia,Pancreas,2015,Male and Female,11.9,1135,8367587
+Washington,Pancreas,2015,Male and Female,12.1,1007,7160290
+Tennessee,Pancreas,2015,Male and Female,12.3,985,6595056
+Texas,Pancreas,2015,Male and Female,12.4,3278,27429639
+Missouri,Pancreas,2015,Male and Female,12.2,914,6076204
+Montana,Pancreas,2015,Male and Female,12.5,176,1032073
+North Carolina,Pancreas,2015,Male and Female,12.9,1523,10035186
+North Dakota,Pancreas,2015,Male and Female,11.8,101,756835
+Ohio,Pancreas,2015,Male and Female,12.9,1873,11605090
+Oregon,Pancreas,2015,Male and Female,12.6,638,4024634
+Alabama,Pancreas,2015,Male and Female,12.9,765,4853875
+Arkansas,Pancreas,2015,Male and Female,11.8,433,2977853
+Florida,Pancreas,2015,Male and Female,12.4,3609,20244914
+Iowa,Pancreas,2015,Male and Female,12.5,493,3121997
+Kansas,Pancreas,2015,Male and Female,12.2,407,2906721
+Maine,Pancreas,2015,Male and Female,12.4,240,1329453
+Wisconsin,Pancreas,2015,Male and Female,13.4,963,5767891
+Nebraska,Pancreas,2015,Male and Female,13.2,291,1893765
+New Jersey,Pancreas,2015,Male and Female,13.9,1494,8935421
+South Carolina,Pancreas,2015,Male and Female,13.2,797,4894834
+Maryland,Pancreas,2015,Male and Female,13,901,5994983
+Massachusetts,Pancreas,2015,Male and Female,13.5,1123,6784240
+Michigan,Pancreas,2015,Male and Female,13.4,1682,9917715
+Minnesota,Pancreas,2015,Male and Female,13.6,877,5482435
+Mississippi,Pancreas,2015,Male and Female,14.6,496,2989390
+New York,Pancreas,2015,Male and Female,14,3325,19747183
+Pennsylvania,Pancreas,2015,Male and Female,14.8,2529,12791904
+Connecticut,Pancreas,2015,Male and Female,13.8,629,3584730
+Delaware,Pancreas,2015,Male and Female,14.8,181,944076
+District of Columbia,Pancreas,2015,Male and Female,17.2,111,670377
+Georgia,Pancreas,2015,Male and Female,13,1379,10199398
+Hawaii,Pancreas,2015,Male and Female,13.6,247,1425157
+Idaho,Pancreas,2015,Male and Female,14.2,267,1652828
+Illinois,Pancreas,2015,Male and Female,13.8,2035,12839047
+Indiana,Pancreas,2015,Male and Female,13.3,1033,6612768
+Kentucky,Pancreas,2015,Male and Female,13.7,727,4424611
+Louisiana,Pancreas,2015,Male and Female,15.3,796,4668960

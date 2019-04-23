@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+District of Columbia,Kidney and Renal Pelvis,2015,Male and Female,10.1,70,670377
+Wyoming,Kidney and Renal Pelvis,2015,Male and Female,12.7,86,586555
+South Dakota,Kidney and Renal Pelvis,2015,Male and Female,13.9,144,857919
+Vermont,Kidney and Renal Pelvis,2015,Male and Female,12.8,105,626088
+Utah,Kidney and Renal Pelvis,2015,Male and Female,13.4,351,2990632
+Colorado,Kidney and Renal Pelvis,2015,Male and Female,13.8,809,5448819
+Oregon,Kidney and Renal Pelvis,2015,Male and Female,14.7,724,4024634
+Washington,Kidney and Renal Pelvis,2015,Male and Female,14.9,1224,7160290
+Nevada,Kidney and Renal Pelvis,2015,Male and Female,14.4,482,2883758
+New Hampshire,Kidney and Renal Pelvis,2015,Male and Female,14.5,236,1330111
+New Mexico,Kidney and Renal Pelvis,2015,Male and Female,14.9,356,2080328
+Florida,Kidney and Renal Pelvis,2015,Male and Female,14.4,3921,20244914
+Hawaii,Kidney and Renal Pelvis,2015,Male and Female,14.8,252,1425157
+California,Kidney and Renal Pelvis,2015,Male and Female,14.9,6236,38993940
+Rhode Island,Kidney and Renal Pelvis,2015,Male and Female,15.7,206,1055607
+Ohio,Kidney and Renal Pelvis,2015,Male and Female,17.4,2446,11605090
+Virginia,Kidney and Renal Pelvis,2015,Male and Female,15.2,1455,8367587
+Montana,Kidney and Renal Pelvis,2015,Male and Female,15.9,210,1032073
+New Jersey,Kidney and Renal Pelvis,2015,Male and Female,16.3,1732,8935421
+New York,Kidney and Renal Pelvis,2015,Male and Female,16.7,3900,19747183
+North Carolina,Kidney and Renal Pelvis,2015,Male and Female,16.5,1948,10035186
+Georgia,Kidney and Renal Pelvis,2015,Male and Female,16.5,1800,10199398
+Idaho,Kidney and Renal Pelvis,2015,Male and Female,16.1,297,1652828
+Maine,Kidney and Renal Pelvis,2015,Male and Female,17,310,1329453
+Maryland,Kidney and Renal Pelvis,2015,Male and Female,15.1,1044,5994983
+Massachusetts,Kidney and Renal Pelvis,2015,Male and Female,16.8,1357,6784240
+Michigan,Kidney and Renal Pelvis,2015,Male and Female,15,1815,9917715
+Delaware,Kidney and Renal Pelvis,2015,Male and Female,16.5,205,944076
+Arizona,Kidney and Renal Pelvis,2015,Male and Female,15.4,1238,6817565
+Connecticut,Kidney and Renal Pelvis,2015,Male and Female,16.1,704,3584730
+Pennsylvania,Kidney and Renal Pelvis,2015,Male and Female,17.5,2825,12791904
+Oklahoma,Kidney and Renal Pelvis,2015,Male and Female,21,931,3907414
+South Carolina,Kidney and Renal Pelvis,2015,Male and Female,17.7,1062,4894834
+Tennessee,Kidney and Renal Pelvis,2015,Male and Female,18.4,1427,6595056
+West Virginia,Kidney and Renal Pelvis,2015,Male and Female,20.3,496,1841053
+Wisconsin,Kidney and Renal Pelvis,2015,Male and Female,17.5,1225,5767891
+Texas,Kidney and Renal Pelvis,2015,Male and Female,18.3,5013,27429639
+Minnesota,Kidney and Renal Pelvis,2015,Male and Female,17.5,1112,5482435
+Mississippi,Kidney and Renal Pelvis,2015,Male and Female,20.3,693,2989390
+Missouri,Kidney and Renal Pelvis,2015,Male and Female,19.1,1377,6076204
+Nebraska,Kidney and Renal Pelvis,2015,Male and Female,18.7,400,1893765
+North Dakota,Kidney and Renal Pelvis,2015,Male and Female,17.7,140,756835
+Illinois,Kidney and Renal Pelvis,2015,Male and Female,18.1,2653,12839047
+Indiana,Kidney and Renal Pelvis,2015,Male and Female,18.7,1419,6612768
+Iowa,Kidney and Renal Pelvis,2015,Male and Female,18.8,722,3121997
+Kansas,Kidney and Renal Pelvis,2015,Male and Female,18.9,622,2906721
+Kentucky,Kidney and Renal Pelvis,2015,Male and Female,20.7,1075,4424611
+Louisiana,Kidney and Renal Pelvis,2015,Male and Female,21.1,1095,4668960
+Alabama,Kidney and Renal Pelvis,2015,Male and Female,17.9,1050,4853875
+Alaska,Kidney and Renal Pelvis,2015,Male and Female,19,136,737709
+Arkansas,Kidney and Renal Pelvis,2015,Male and Female,19.2,680,2977853

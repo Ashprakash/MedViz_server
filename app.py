@@ -49,6 +49,7 @@ def get_map():
     map_data ={}
     text =''
     part_name = request.json['part']
+    print(part_name)
     file_name = part_name + '.csv'
     with open('mapData/map_data.json', 'r') as json_file:
         processed = json.loads(json_file.read(), strict=False)

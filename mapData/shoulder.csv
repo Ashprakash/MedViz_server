@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+Alaska,Thyroid,2015,Male and Female,9.9,74,737709
+Alabama,Thyroid,2015,Male and Female,9.9,520,4853875
+South Carolina,Thyroid,2015,Male and Female,11.1,594,4894834
+Missouri,Thyroid,2015,Male and Female,12.1,770,6076204
+Mississippi,Thyroid,2015,Male and Female,11.2,345,2989390
+Texas,Thyroid,2015,Male and Female,11.9,3240,27429639
+Michigan,Thyroid,2015,Male and Female,12.4,1298,9917715
+Indiana,Thyroid,2015,Male and Female,13,864,6612768
+Florida,Thyroid,2015,Male and Female,12.5,2782,20244914
+Georgia,Thyroid,2015,Male and Female,12.5,1319,10199398
+District of Columbia,Thyroid,2015,Male and Female,12.1,85,670377
+North Carolina,Thyroid,2015,Male and Female,12.6,1327,10035186
+Minnesota,Thyroid,2015,Male and Female,13,749,5482435
+Virginia,Thyroid,2015,Male and Female,12.7,1129,8367587
+Maryland,Thyroid,2015,Male and Female,14.2,910,5994983
+Louisiana,Thyroid,2015,Male and Female,14.7,713,4668960
+Iowa,Thyroid,2015,Male and Female,14.8,478,3121997
+Hawaii,Thyroid,2015,Male and Female,14.7,218,1425157
+Delaware,Thyroid,2015,Male and Female,14.2,144,944076
+Colorado,Thyroid,2015,Male and Female,14.3,819,5448819
+California,Thyroid,2015,Male and Female,13.3,5393,38993940
+Arkansas,Thyroid,2015,Male and Female,13.7,426,2977853
+Arizona,Thyroid,2015,Male and Female,13.5,955,6817565
+South Dakota,Thyroid,2015,Male and Female,13.9,119,857919
+Oklahoma,Thyroid,2015,Male and Female,13.3,535,3907414
+Oregon,Thyroid,2015,Male and Female,13.5,577,4024634
+Nevada,Thyroid,2015,Male and Female,14.8,457,2883758
+Washington,Thyroid,2015,Male and Female,13.3,1024,7160290
+Wisconsin,Thyroid,2015,Male and Female,13.9,846,5767891
+Tennessee,Thyroid,2015,Male and Female,13.4,927,6595056
+Maine,Thyroid,2015,Male and Female,15.6,244,1329453
+Kentucky,Thyroid,2015,Male and Female,16.5,775,4424611
+Kansas,Thyroid,2015,Male and Female,16.7,499,2906721
+Idaho,Thyroid,2015,Male and Female,15.6,260,1652828
+Illinois,Thyroid,2015,Male and Female,16.1,2167,12839047
+Connecticut,Thyroid,2015,Male and Female,17.9,704,3584730
+Ohio,Thyroid,2015,Male and Female,15,1832,11605090
+New Hampshire,Thyroid,2015,Male and Female,15,217,1330111
+New Jersey,Thyroid,2015,Male and Female,18.7,1795,8935421
+New Mexico,Thyroid,2015,Male and Female,16.7,363,2080328
+New York,Thyroid,2015,Male and Female,20.5,4289,19747183
+North Dakota,Thyroid,2015,Male and Female,16.7,127,756835
+Pennsylvania,Thyroid,2015,Male and Female,19.4,2647,12791904
+Rhode Island,Thyroid,2015,Male and Female,19.1,214,1055607
+Nebraska,Thyroid,2015,Male and Female,14.8,286,1893765
+Montana,Thyroid,2015,Male and Female,15,166,1032073
+Massachusetts,Thyroid,2015,Male and Female,20.4,1490,6784240
+Wyoming,Thyroid,2015,Male and Female,18.2,103,586555
+Utah,Thyroid,2015,Male and Female,19.5,527,2990632
+Vermont,Thyroid,2015,Male and Female,14.9,102,626088
+West Virginia,Thyroid,2015,Male and Female,16.1,317,1841053
