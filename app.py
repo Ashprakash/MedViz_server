@@ -84,5 +84,26 @@ def get_word_cloud():
         return Response(json.dumps(word_cloud[key]), status=200)
 
 
+@app.route('/get_content', methods=["GET"])
+def get_content():
+    processed = {}
+    part = request.args['part']
+    type = request.args['type']
+    topic = request.args['topic']
+    with open('data/webmd-processed.json', 'r') as json_file:
+        processed = json.loads(json_file.read(), strict=False)
+        json_file.close()
+    topic_data = processed[part][type][topic]
+    answers_list = []
+    for question in topic_data['value']:
+        for answer in question['question_answer']:
+            if 'answerVoteNum' not in answer:
+                answer['answerVoteNum'] = 0
+            answers_list.append(answer)
+    answers_list.sort(key=lambda x: x['answerVoteNum'], reverse=True)
+    answers_list_1 = answers_list[0:10]
+    answers_list_2 = answers_list[11:20]
+    return Response(json.dumps([answers_list_1, answers_list_2]), status=200)
+
 if __name__ == '__main__':
     app.run()
