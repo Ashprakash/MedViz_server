@@ -60,7 +60,7 @@ def get_map():
             for feature in features:
                 if(row[0]==feature["properties"]["name"]):
                     feature["properties"]["value"]= row[5]
-                    text = "In 2015 age adjusted data of lung diseases was"+row[4]+"per 100,000 people"+"/n"+ row[5]+ " cancel cases was reported"
+                    text = "In "+row[0]+" there is a population of " +row[6]+ " which has "+row[5]+" cases of fatal diseases"
                     feature["properties"]["text"] = text
 
     map_data['features'] = features
